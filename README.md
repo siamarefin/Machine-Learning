@@ -57,7 +57,7 @@ ML_project : https://www.youtube.com/watch?v=fw5rkjq4Tfo&list=PLfFghEzKVmjvuSA67
 codebasic: https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&index=1 
 
 **************Machine learning Engineering / MLops ************* 
-docker use : https://www.youtube.com/watch?v=oYlNP21g2Y0 
+docker use :https://www.youtube.com/watch?v=vA0C0k72-b4&t=14s
 
 
 
