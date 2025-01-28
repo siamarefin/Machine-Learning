@@ -1,6 +1,7 @@
-roadmap: https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science 
+Krish naik roadmap: https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science 
+
 Have general knowledge of python  and statistics 
-Python : https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg
+Python : https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg  
 
 ************Data analysis************
 coursera: https://www.coursera.org/learn/data-analysis-with-python
