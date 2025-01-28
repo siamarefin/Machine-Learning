@@ -64,7 +64,12 @@ link : https://www.learnpytorch.io/00_pytorch_fundamentals/
 
 
 **************Machine learning Engineering / MLops ************* 
+fast api from kris Naik 
+
 docker use :https://www.youtube.com/watch?v=vA0C0k72-b4&t=14s
+
+azure use  kris naik 
+
 
 
 
