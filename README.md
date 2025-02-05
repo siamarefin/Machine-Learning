@@ -5,6 +5,7 @@ Python : https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt24
 
 ************Data analysis************
 coursera: https://www.coursera.org/learn/data-analysis-with-python
+
 ********EDA********* 
 Basic : https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python 
 EDA process from Kaggle : 
@@ -34,13 +35,17 @@ kris_naik: https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PX
 
 ****************Feature Selection**************
 basic: https://www.youtube.com/watch?v=vZDDmULsCUU 
+
 kris_naik : https://www.youtube.com/watch?v=uMlU2JaiOd8&list=PLZoTAELRMXVPgjwJ8VyRoqmfNs2CJwhVH 
 
 
 ***************Machine Learning******************
 kris : https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&index=1 
+
 codebasic: https://www.youtube.com/watch?v=J_LnPL3Qg70&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=1
+
 git_resource : https://github.com/codebasics/py/tree/master/ML
+
 coursera: https://www.coursera.org/learn/machine-learning-with-python
 
 
@@ -64,6 +69,7 @@ link : https://www.learnpytorch.io/00_pytorch_fundamentals/
 
 
 **************Machine learning Engineering / MLops ************* 
+
 fast api from kris Naik 
 
 docker use :https://www.youtube.com/watch?v=vA0C0k72-b4&t=14s
